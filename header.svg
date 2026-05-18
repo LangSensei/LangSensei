@@ -12,6 +12,6 @@
   </defs>
   <rect width="800" height="160" fill="url(#bg)" rx="6"/>
   <text x="400" y="70" font-family="Segoe UI, -apple-system, sans-serif" font-size="32" font-weight="600" fill="#f0f6fc" text-anchor="middle">Lang Cheng</text>
-  <text x="400" y="105" font-family="Segoe UI, -apple-system, sans-serif" font-size="16" fill="#8b949e" text-anchor="middle">building the composition layer for agentic systems</text>
+  <text x="400" y="108" font-family="Segoe UI, -apple-system, sans-serif" font-size="18" fill="#c9d1d9" text-anchor="middle">building the composition layer for agentic systems</text>
   <rect x="250" y="125" width="300" height="2" fill="url(#accent)" rx="1"/>
 </svg>

@@ -8,7 +8,7 @@
 
 ---
 
-### What I'm building
+## What I'm building
 
 **[MetaAgents](https://github.com/metaagents-ai/metaagents)** — an open standard for composing agents, skills, and MCPs. Extends [agents.md](https://agents.md) and [Agent Skills](https://agentskills.io) with scope, versioning, dependency resolution, and cross-platform packaging.
 
@@ -22,7 +22,7 @@ npm i -g @langsensei/emploke && emploke start
 
 ---
 
-### Patterns & Essays
+## Patterns & Essays
 
 Three design patterns distilled from building multi-agent systems:
 
@@ -32,7 +32,7 @@ Three design patterns distilled from building multi-agent systems:
 
 ---
 
-### Earlier work
+## Earlier work
 
 - [SWAT](https://github.com/LangSensei/swat) — autonomous multi-agent task engine, markdown-driven
 - [SWAT Marketplace](https://github.com/LangSensei/swat-marketplace) — registry for squads, skills, and MCP configs
@@ -46,6 +46,6 @@ Three design patterns distilled from building multi-agent systems:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-161b22?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-30363d?style=flat-square" />
   <img src="https://img.shields.io/badge/Copilot_CLI-000?style=flat-square&logo=github&logoColor=white" />
 </p>
