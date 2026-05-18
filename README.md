@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>SDE <a href="https://github.com/microsoft">@microsoft</a> · Suzhou, China</strong>
+  <strong>SDE <a href="https://github.com/microsoft">@microsoft</a></strong>
 </p>
 
 ---
