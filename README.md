@@ -12,7 +12,7 @@
 
 **[MetaAgents](https://github.com/metaagents-ai/metaagents)** — an open standard for composing agents, skills, and MCPs. Extends [agents.md](https://agents.md) and [Agent Skills](https://agentskills.io) with scope, versioning, dependency resolution, and cross-platform packaging.
 
-**[glyph](https://github.com/glyphs-ai/glyph)** — a local-first control plane that orchestrates MetaAgents-format agents as interactive sessions or autonomous workflows. One process, one terminal, one dashboard. The typography metaphor is the point: single agents are *glyphs*, composing them into orchestrated systems is the language AI will speak.
+**[Glyph](https://github.com/glyphs-ai/glyph)** — a local-first control plane that orchestrates MetaAgents-format agents as interactive sessions or autonomous workflows. One process, one terminal, one dashboard. The typography metaphor is the point: single agents are *glyphs*, composing them into orchestrated systems is the language AI will speak.
 
 ```bash
 npm i -g @glyphs-ai/glyph && glyph start
