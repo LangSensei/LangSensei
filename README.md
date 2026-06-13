@@ -12,10 +12,10 @@
 
 **[MetaAgents](https://github.com/metaagents-ai/metaagents)** — an open standard for composing agents, skills, and MCPs. Extends [agents.md](https://agents.md) and [Agent Skills](https://agentskills.io) with scope, versioning, dependency resolution, and cross-platform packaging.
 
-**[emploke](https://github.com/LangSensei/emploke)** — a local-first control plane that orchestrates MetaAgents-format agents as interactive sessions or autonomous tasks. One process, one terminal, one dashboard.
+**[glyph](https://github.com/glyphs-ai/glyph)** — a local-first control plane that orchestrates MetaAgents-format agents as interactive sessions or autonomous workflows. One process, one terminal, one dashboard. The typography metaphor is the point: single agents are *glyphs*, composing them into orchestrated systems is the language AI will speak.
 
 ```bash
-npm i -g @langsensei/emploke && emploke start
+npm i -g @glyphs-ai/glyph && glyph start
 ```
 
 📖 [What we believe about agentic systems](https://langsensei.github.io/emploke/)
@@ -34,6 +34,7 @@ Three design patterns distilled from building multi-agent systems:
 
 ## Earlier work
 
+- [emploke](https://github.com/LangSensei/emploke) — glyph's previous incarnation; renamed and re-released under `@glyphs-ai/glyph`
 - [SWAT](https://github.com/LangSensei/swat) — autonomous multi-agent task engine, markdown-driven
 - [SWAT Marketplace](https://github.com/LangSensei/swat-marketplace) — registry for squads, skills, and MCP configs
 - [SWAT Dashboard](https://github.com/LangSensei/swat-dashboard) — web-based ops monitoring
